@@ -4,7 +4,7 @@ Berikut adalah versi **ringkas dokumentasi** dengan tambahan cara **download lib
 
 # **Dashboard Data Sekolah**  
 Visualisasi data fasilitas sekolah di Indonesia menggunakan **Flask** dan **Python**.
-
+![Demo](static/gif.gif)
 ---
 
 ## **Library yang Digunakan**  

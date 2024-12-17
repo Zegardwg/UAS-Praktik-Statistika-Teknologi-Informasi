@@ -7,6 +7,14 @@ Visualisasi data fasilitas sekolah di Indonesia menggunakan **Flask** dan **Pyth
 
 ---
 
+## **Library yang Digunakan**  
+
+- **Flask**: Framework untuk membangun aplikasi web Python.  
+- **Pandas**: Membaca dan mengolah data CSV.  
+- **Seaborn** & **Matplotlib**: Membuat visualisasi data.
+  
+---
+
 ## **Fitur Utama**  
 1. **Visualisasi Data**: Grafik menggunakan **Seaborn** dan **Matplotlib**.  
 2. **Tabel Data**: Menampilkan data CSV dalam bentuk tabel dengan **Pandas**.  
@@ -25,11 +33,6 @@ Pastikan Anda sudah menginstal:
 ## **Instalasi**  
 
 ### **1. Clone Proyek**  
-Clone repositori menggunakan `git` atau download manual.  
-```bash
-git clone https://github.com/username/dashboard-sekolah.git
-cd dashboard-sekolah
-```
 
 ---
 

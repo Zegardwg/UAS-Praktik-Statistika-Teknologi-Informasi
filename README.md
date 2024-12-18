@@ -160,20 +160,6 @@ Gambar visualisasi akan disimpan di folder **`/static`** dan ditampilkan di hala
 
 4. **Akses Dashboard:**  
    Buka browser dan akses [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
-
----
-
-## **Library yang Digunakan**  
-
-- **Flask**: Framework untuk membangun aplikasi web Python.  
-- **Pandas**: Membaca dan mengolah data CSV.  
-- **Seaborn** & **Matplotlib**: Membuat visualisasi data.  
-
----
-
-## **Lisensi**  
-Proyek ini menggunakan lisensi **MIT**.
-
 ---
 
 Sekarang, pengguna dapat dengan cepat menginstal Flask, dependensi Python, dan menjalankan server untuk melihat visualisasi data fasilitas sekolah.
